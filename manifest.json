@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Calculator",
+    "description": "Calculator by Sachinnn!",
+    "version": "1.0",
+    "action": {
+      "default_popup": "calculator.html",
+      "default_icon": "calculator.png"
+    }
+  }
